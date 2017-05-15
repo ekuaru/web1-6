@@ -30,3 +30,16 @@ dt{
   float: left;
   font-weight: bold:
 }
+
+.btn{
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  margin: 8px;
+  width: 120px;
+  height: 35px;
+  padding: 5px;
+  font-size: 20;
+  font-weight: bold:
+}
+
+.btn
