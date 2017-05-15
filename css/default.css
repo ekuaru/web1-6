@@ -56,3 +56,11 @@ dt{
 .btn-reset{
   background-color: gray;
 }
+
+#ingredient{
+  border: 2px solid lightblue;
+}
+
+th,td{
+ border: 1px solid blue;
+}
