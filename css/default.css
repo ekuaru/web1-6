@@ -57,8 +57,18 @@ dt{
 }
 
 #ingredient{
-  border: 2px solid lightblue;
+  border: 3px solid blue;
 }
-th,td{
-  border: 1px solid blue;
+th{
+  border: 2px solid lightblue;
+  background-color: skyblue;
+  padding: 3px;
+  width: 50px;
+  text-align: center;
+}
+td{
+  border: 2px solid lightblue;
+  padding: 3px;
+  width: 10px;
+  text-align: center;
 }
