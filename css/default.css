@@ -42,4 +42,16 @@ dt{
   font-weight: bold:
 }
 
-.btn
+.btn:hover{
+  opacity: 1.5;
+}
+.btn:active{
+  color:white;
+}
+.btn-submit{
+  background-color: lightblue;
+}
+
+.btn-reset{
+  background-color: gray;
+}
