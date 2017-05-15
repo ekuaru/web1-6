@@ -52,7 +52,6 @@ dt{
 .btn-submit{
   background-color: lightblue;
 }
-
 .btn-reset{
   background-color: gray;
 }
@@ -60,7 +59,6 @@ dt{
 #ingredient{
   border: 2px solid lightblue;
 }
-
 th,td{
- border: 1px solid blue;
+  border: 1px solid blue;
 }
