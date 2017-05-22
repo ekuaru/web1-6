@@ -1,4 +1,4 @@
-@chareset"UTF-8";
+@charset"UTF-8";
 
 body{
   background-color: #eecc99;}
@@ -28,7 +28,7 @@ background-color: white;
 dt{
   clear: left;
   float: left;
-  font-weight: bold:
+  font-weight: bold;
 }
 
 .btn{
@@ -39,8 +39,8 @@ dt{
   width: 120px;
   height: 35px;
   padding: 5px;
-  font-size: 20;
-  font-weight: bold:
+  font-size: 20px;
+  font-weight: bold;
 }
 
 .btn:hover{
